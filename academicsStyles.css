@@ -1,8 +1,8 @@
+ h1.outset {border-style: outset;}
+
  h1{
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
   }
-  
-  h1.outset {border-style: outset;}
